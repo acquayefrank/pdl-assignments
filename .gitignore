@@ -139,3 +139,4 @@ cython_debug/
 
 t10k-*
 train-*
+notMNIST_small/
